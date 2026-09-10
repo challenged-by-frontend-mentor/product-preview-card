@@ -42,9 +42,9 @@ body {
   max-width: 349px;
   border-radius: 10px;
   overflow: hidden;
+  display: grid;
 
   @media (min-width: 1024px) {
-    display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr;
     max-width: 37.5rem;
@@ -165,22 +165,4 @@ body {
 .footer__link:hover,
 .footer__link:focus-visible {
   text-decoration: underline;
-}
-
-#design-overlay {
-  /* display: none; */
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  max-width: 375px;
-  height: auto;
-  object-fit: cover;
-  opacity: 0.4;
-  pointer-events: none;
-  z-index: 9999;
-  filter: hue-rotate(150deg);
-  @media (min-width: 1025px) {
-    max-width: 1440px;
-  }
 }
