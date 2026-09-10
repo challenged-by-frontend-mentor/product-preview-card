@@ -49,7 +49,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product Preview Card Component using React, BEM & Modern CSS](https://your-solution-url.com)
+- Solution URL: [Product Preview Card Component using React, BEM & Modern CSS]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-preview-card-page-using-html-and-css-sass-XkoBzKepwG))
 - Live Site URL: [Frontend Mentor | Product preview card component](https://challenged-by-frontend-mentor.github.io/product-preview-card/)
 
 ## My process
