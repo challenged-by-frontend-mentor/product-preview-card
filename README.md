@@ -4,22 +4,18 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-      - [Mobile view](#mobile-view)
-      - [Desktop view](#desktop-view)
-      - [Active state](#active-state)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [AI Collaboration](#ai-collaboration)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,55 +30,93 @@ Users should be able to:
 
 ### Screenshot
 
-#### Mobile view
+![](./screenshot.jpg)
 
-![](./sources/screenshots/Mobile%20view.png)
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-#### Desktop view
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-![](./sources/screenshots/Desktop%20view.png)
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-#### Active state
-
-![](./sources/screenshots/Active%20state.png)
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Product preview card page using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/product-preview-card-page-using-html-and-css-sass-XkoBzKepwG)
-- Live Site URL: [Frontend Mentor | Product preview card component](https://vangmanawkairung.github.io/Frontend-Mentor_product-preview-card/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- Sass (Scss)
-- CSS custom properties (Sass Variables)
+- CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Responsive Design with Media Queries
-- Google Fonts
-- ARIA Accessibility Features
-- CSS Clamp Function
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-During this challenge, I deepened my understanding of writing clean and semantic HTML5 markup, ensuring accessibility with ARIA labels. I honed my CSS skills, particularly using Flexbox and CSS Grid to create responsive layouts, and embraced a mobile-first workflow to prioritize user experience on smaller screens. Utilizing Sass, I learned to organize my styles with variables and mixins, which improved code maintainability and reusability. I also explored using the `clamp()` function for responsive typography and integrated Google Fonts effectively. This project reinforced the importance of planning, attention to detail, and adhering to best practices in modern front-end development.
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
+To see how you can add code snippets, see below:
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-I aim to refine my skills in creating even more efficient and scalable code by exploring advanced CSS methodologies like BEM and improving my proficiency with Sass features such as nesting and partials. I plan to deepen my understanding of accessibility standards to ensure inclusive designs for all users. Additionally, I want to incorporate tools like PostCSS or frameworks like Tailwind CSS to streamline workflows and adapt to modern design trends. Expanding my knowledge of JavaScript for interactivity and exploring React for building more dynamic components is also a priority for future projects.
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [clamp()](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp) - The website shows how to use `clamp()` method
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
+### AI Collaboration
+
+Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+
+- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
+- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
+- What worked well? What didn't?
+
+**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
 
 ## Author
 
-- Frontend Mentor - [@VangmanawKairung](https://www.frontendmentor.io/profile/VangmanawKairung)
-- GitHub - [Kairung Vangmanaw](https://github.com/VangmanawKairung)
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-I would like to express my gratitude to **Frontend Mentor** for providing this well-structured and engaging challenge, which has significantly improved my front-end development skills. A big thank you to **VSCode**, my go-to code editor, for its powerful features and smooth workflow. I also appreciate the **Preview app on macOS** for making it easy to manage and view assets during development, and **Google Chrome**, whose robust developer tools helped me debug and refine my code. Lastly, I’m thankful for all the other tools and resources that supported me throughout this challenge, making the entire process seamless and enjoyable.
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
